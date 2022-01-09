@@ -12,17 +12,11 @@
 * Video1: https://youtu.be/dke4-Lspe7M
 * Video2: https://youtu.be/r2I9mlpRj3c
 * Video3: https://youtu.be/tDvJSON7c1Q
-* Lab:
-* Homework:
 
 ## Week 2
 * Slide: https://speakerdeck.com/ljptw/reverse-engineering-2
 * Video: https://youtu.be/qRLh1ZPOZwA
-* Lab:
-* Homework:
 
 ## Week 3
 * Slide: https://speakerdeck.com/ljptw/reverse-engineering-3
 * Video: https://youtu.be/dggOMX6f1IY
-* Lab:
-* Homework:
